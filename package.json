@@ -1,0 +1,22 @@
+{
+  "name": "esgi-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stabien/esgi-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stabien/esgi-git/issues"
+  },
+  "homepage": "https://github.com/Stabien/esgi-git#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
