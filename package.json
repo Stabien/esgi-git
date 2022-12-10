@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Stabien/esgi-git#readme",
   "devDependencies": {
     "eslint": "^8.29.0"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
   }
 }
