@@ -14,9 +14,21 @@ git remote set-url --add --push origin git@github.com:Stabien/esgi-git.git
 git remote set-url --add --push origin git@gitlab.com:Stabien/esgi-git.git
 ```
 
-## Gitlab repository
+## Pre-commit
 
-https://gitlab.com/Stabien/esgi-git.git
+This project uses pre-commit :
+
+First you want to have pip installed in your device.
+
+```
+pip install pre-commit
+pre-commit install
+```
+
+## Repositories
+
+Github: https://github.com/Stabien/esgi-git.git
+Gitlab: https://gitlab.com/Stabien/esgi-git.git
 
 ## Authors 
 
