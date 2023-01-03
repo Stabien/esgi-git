@@ -1,0 +1,26 @@
+{
+  "name": "esgi-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stabien/esgi-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stabien/esgi-git/issues"
+  },
+  "homepage": "https://github.com/Stabien/esgi-git#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  },
+  "dependencies": {
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
