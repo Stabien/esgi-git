@@ -1,5 +1,4 @@
 exports.sum = (x, y) => {
-  const a
-  const b
-  const c
+  console.log("test")
+  return x + y
 }
