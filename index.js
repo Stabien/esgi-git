@@ -1,3 +1,4 @@
 exports.sum = (x, y) => {
-  const a 
+  const a
+  const b
 }
