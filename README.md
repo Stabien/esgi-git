@@ -17,3 +17,7 @@ git remote set-url --add --push origin git@gitlab.com:Stabien/esgi-git.git
 ## Gitlab repository
 
 https://gitlab.com/Stabien/esgi-git.git
+
+## Authors 
+
+Stabien & Mel-Red
