@@ -27,7 +27,7 @@ pre-commit install
 
 ## Repositories
 
-Github: https://github.com/Stabien/esgi-git.git
+Github: https://github.com/Stabien/esgi-git.git 
 Gitlab: https://gitlab.com/Stabien/esgi-git.git
 
 ## Authors 
